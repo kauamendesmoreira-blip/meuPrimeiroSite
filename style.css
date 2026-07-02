@@ -1,6 +1,6 @@
 *{
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -10,5 +10,13 @@ body{
     color: ghostwhite;
     margin: 0px;
     margin-bottom: 100px;
+
+}
+
+header{
+    background-color: bisque;
+    color: azure;
+    text-align: center;
+    padding: 20px;
 }
 
